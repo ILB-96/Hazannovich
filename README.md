@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Hazannovich
-- 👀 I’m interested in Linux, machine learning and basic programming
-- 🌱 I’m currently learning java, c, phyton
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on I have no idea
 - 📫 How to reach me pm me or something
 
